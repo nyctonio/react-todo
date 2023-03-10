@@ -14,6 +14,9 @@ import './App.css'
 // hosted our project on netlify and vercel
 
 
+
+
+
 // Git - it is a version control system
 // Github - it is a platform where we can store our code
 
